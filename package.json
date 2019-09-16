@@ -8,12 +8,12 @@
     "url": "https://github.com/yonifra/yonifra-blog/issues"
   },
   "dependencies": {
-    "gatsby": "^2.15.15",
+    "gatsby": "^2.15.16",
     "gatsby-image": "^2.2.19",
     "gatsby-plugin-feed": "^2.3.12",
     "gatsby-plugin-google-analytics": "^2.1.16",
     "gatsby-plugin-manifest": "^2.2.16",
-    "gatsby-plugin-offline": "^3.0.6",
+    "gatsby-plugin-offline": "^3.0.7",
     "gatsby-plugin-react-helmet": "^3.1.7",
     "gatsby-plugin-sharp": "^2.2.22",
     "gatsby-plugin-typography": "^2.3.7",
@@ -36,6 +36,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "@types/jest": "^24.0.18",
     "jest-cli": "^24.9.0",
     "prettier": "^1.18.2"
   },
@@ -57,5 +58,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@yonifra"
   }
 }
