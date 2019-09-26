@@ -43,7 +43,10 @@
   "homepage": "https://https://github.com/yonifra/yonifra-blog#readme",
   "keywords": [
     "yonifra",
-    "blog"
+    "blog",
+    "dev",
+    "development",
+    "yonifra.com"
   ],
   "license": "MIT",
   "main": "n/a",
