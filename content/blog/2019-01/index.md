@@ -12,6 +12,7 @@ and there's just not too much time for these things anyways.
 So the easy way out is simply to opt out of it all together. Simple, right?
 
 But let's see why people do end up doing blogs eventually, and some do them very very well:
+
 1. First, it's a nice thing to think that you have a "web presence", and with a simple `git push` command you can be out
    there for everyone to read.
 2. Another valid point is that when you write your thoughts into a blog-like system, you're letting your creativity blossom.
