@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import "./mystyles.scss"
 
 class BlogIndex extends React.Component {
   render() {
@@ -26,6 +27,18 @@ class BlogIndex extends React.Component {
                     marginBottom: rhythm(1 / 4),
                   }}
                 >
+<span className="icon has-text-info">
+  <i className="fas fa-info-circle"></i>
+</span>
+<span className="icon has-text-success">
+  <i className="fas fa-check-square"></i>
+</span>
+<span className="icon has-text-warning">
+  <i className="fas fa-exclamation-triangle"></i>
+</span>
+<span className="icon has-text-danger">
+  <i className="fas fa-ban"></i>
+</span>
                   <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                     {title}
                   </Link>

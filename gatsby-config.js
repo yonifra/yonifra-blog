@@ -72,6 +72,7 @@ module.exports = {
         cookieDomain: "yonifra.com",
       },
     },
+    `gatsby-plugin-sass`,
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
