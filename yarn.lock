@@ -949,7 +949,7 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.0.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.3.4", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2", "@babel/runtime@^7.9.6":
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.3.4", "@babel/runtime@^7.6.3", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   version "7.10.3"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.3.tgz#670d002655a7c366540c67f6fd3342cd09500364"
   integrity sha512-RzGO0RLSdokm9Ipe/YD+7ww8X2Ro79qiXZF3HU9ljrM+qnJmH1Vqth+hbiQZy761LnMJTMitHDuKVYTk3k4dLw==
@@ -7084,12 +7084,12 @@ gatsby-transformer-remark@^2.8.17:
     unist-util-select "^1.5.0"
     unist-util-visit "^1.4.1"
 
-gatsby-transformer-sharp@^2.5.2:
-  version "2.5.2"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-2.5.2.tgz#0ae4bb4fb26061747b4b8c8356f2cd88fbddad18"
-  integrity sha512-deRZzUXQsk4xQM82JipU3WRJB8oFn4gX9cVRXeQhnNwnhdhve9UA0Hs4YqqqWsSbngCX9GeiGS78zDyjvN7e7w==
+gatsby-transformer-sharp@^2.5.9:
+  version "2.5.9"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-2.5.9.tgz#e709a542e70bcbee638785ca52cfb1c73d45fb23"
+  integrity sha512-nCvsHYPTTiUBl52w1Lpjb+0rvSB+UIBhcsh3OUSRgILkFrj4YIK9uRNG+Ieo5XEMG6uwRNGJNizNzsoBtlbvPg==
   dependencies:
-    "@babel/runtime" "^7.9.6"
+    "@babel/runtime" "^7.10.3"
     bluebird "^3.7.2"
     fs-extra "^8.1.0"
     potrace "^2.1.6"
