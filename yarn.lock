@@ -6952,12 +6952,12 @@ gatsby-recipes@^0.1.43:
     ws "^7.3.0"
     xstate "^4.10.0"
 
-gatsby-remark-copy-linked-files@^2.3.5:
-  version "2.3.5"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-copy-linked-files/-/gatsby-remark-copy-linked-files-2.3.5.tgz#c0fbf1eb20ea4a902fdc0d07642277a0d76a2b48"
-  integrity sha512-czkwTOG8aOZOG4XEKX0q1fuKeNthZCMmqVEkGe5jnPHfhWcKQYUt29yUtdL6VWMg+NYyGRKvhWw7linj5TuV3A==
+gatsby-remark-copy-linked-files@^2.3.9:
+  version "2.3.9"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-copy-linked-files/-/gatsby-remark-copy-linked-files-2.3.9.tgz#6a48028fb7dd49ae6f2066280dd2c3d6b717a129"
+  integrity sha512-KE6UvsjT6mYZV++jyYszirL/JiD6QQh4ANzoD/zIRHcUkberPHb0i+G7/c5hthAw2oTCjtnvvYcU0cr6VUMokA==
   dependencies:
-    "@babel/runtime" "^7.10.2"
+    "@babel/runtime" "^7.10.3"
     cheerio "^1.0.0-rc.3"
     fs-extra "^8.1.0"
     is-relative-url "^3.0.0"
