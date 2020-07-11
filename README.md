@@ -3,7 +3,7 @@
 [![license badge](https://img.shields.io/badge/license-MIT-green)](https://img.shields.io/badge/license-MIT-green)
 [![dependencies badge](https://img.shields.io/david/yonifra/yonifra-blog)](https://img.shields.io/david/yonifra/yonifra-blog)
 
-# My development blog - Made in Gatsby!
+# My development blog - Made with Gatsby!
 
 This is my first try at Gatsby with React.
 
