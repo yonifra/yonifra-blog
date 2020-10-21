@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
-    "jest-cli": "^26.5.3",
+    "jest-cli": "^26.6.0",
     "prettier": "^2.1.2"
   },
   "homepage": "https://https://github.com/yonifra/yonifra-blog#readme",
