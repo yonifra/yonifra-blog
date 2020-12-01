@@ -7,6 +7,8 @@
 
 This is my first try at Gatsby with React.
 
+## 🚨🚨 NOTE: THIS REPO IS DEPRECATED. Please use https://github.com/yonifra/yonifra-blog-new from now on 🚨🚨
+
 ## Installation
 
 ```bash
