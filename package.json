@@ -40,7 +40,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.15",
+    "@types/jest": "^26.0.22",
     "jest-cli": "^26.6.1",
     "prettier": "^2.2.1"
   },
