@@ -1,0 +1,50 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "03:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: y18n
+    versions:
+    - 4.0.1
+    - 4.0.2
+  - dependency-name: "@types/jest"
+    versions:
+    - 26.0.20
+    - 26.0.21
+    - 26.0.22
+  - dependency-name: gatsby-transformer-remark
+    versions:
+    - 2.16.0
+  - dependency-name: gatsby-source-filesystem
+    versions:
+    - 2.10.0
+    - 2.11.0
+  - dependency-name: gatsby-remark-images
+    versions:
+    - 3.10.0
+    - 3.11.0
+  - dependency-name: gatsby-remark-smartypants
+    versions:
+    - 2.9.0
+  - dependency-name: gatsby-plugin-google-analytics
+    versions:
+    - 2.10.0
+  - dependency-name: ini
+    versions:
+    - 1.3.8
+  - dependency-name: gatsby-plugin-sharp
+    versions:
+    - 2.13.2
+    - 2.13.3
+    - 2.13.4
+    - 2.14.0
+  - dependency-name: gatsby-plugin-typography
+    versions:
+    - 2.11.0
+  - dependency-name: gatsby-remark-responsive-iframe
+    versions:
+    - 2.10.0
