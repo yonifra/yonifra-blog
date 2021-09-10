@@ -42,7 +42,7 @@
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "jest-cli": "^26.6.1",
-    "prettier": "^2.2.1"
+    "prettier": "^2.4.0"
   },
   "homepage": "https://https://github.com/yonifra/yonifra-blog#readme",
   "keywords": [
